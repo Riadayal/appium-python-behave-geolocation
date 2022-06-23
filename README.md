@@ -1,4 +1,4 @@
-# How to change IP geographic location in Python with Appium on on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=appium-python-behave-geoLocation)
+# How to change IP geographic location in Python with Appium on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=appium-python-behave-geoLocation)
 
 While performing app automation testing with appium on LambdaTest Grid, you may face a scenario where you would like to simulate location of a specific country. You can easily do that by using the lambdatest capability "GeoLocation" and refer the 2-letter country code in the automation script. You can refer to sample test repo [here](https://github.com/LambdaTest/LT-appium-python-behave)
 
